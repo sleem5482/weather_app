@@ -18,6 +18,7 @@ main .card {
   border-radius: 20px;
   padding: 40px 35px;
   text-align: center;
+  margin-bottom: 30px;
 }
 main .card .search {
   width: 100%;
